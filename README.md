@@ -1,15 +1,15 @@
-# JekyllScroll
+# My Project
 
-### Live Demo
+### What is it
 
-Visit the [JekyllScroll page](http://jekyllscroll.onevcat.com) and my [projects page](http://project.onevcat.com) to see how it looks like in action.
+This is a website for [my project](http://project.billhubo.com)
 
 ### About
 
 `JekyllScroll` is a theme for [Jekyll](http://jekyllrb.com). This theme is 
 originally designed by [Yonatan](http://grmmph.com/) and named as 
-[GhostScroll](http://ghostscroll.grmmph.com) for Ghost. I ported it to Jekyll since 
-I prefer to static site.
+[GhostScroll](http://ghostscroll.grmmph.com) for Ghost. [onevcat](https://github.com/onevcat) ported it to Jekyll since 
+he prefer to static site.
 
 ### License
 

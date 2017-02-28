@@ -1,6 +1,6 @@
-title: Jekyll Scroll
-description: An one-page scrollable theme for Jekyll
-url: "jekyllscroll.onevcat.com"
+title: 我的/我参与的项目
+description: Project by me.
+url: "project.billhubo.com"
 
 # Build settings
-markdown: redcarpet
+markdown: kramdown
