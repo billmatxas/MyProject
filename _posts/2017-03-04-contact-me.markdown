@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 联系我(Contact me)
-date: 2014-01-01 00:00:00.000000000 +00:00
+date: 2014-01-01 00:00:00.000000000 -08:00
 type: 1contact
 ---
 
