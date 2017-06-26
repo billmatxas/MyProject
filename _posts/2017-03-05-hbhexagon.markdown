@@ -1,8 +1,7 @@
 ---
 layout: post
 title: HBHexagon
-date: 2017-03-07 16:22:38.000000000 +08:00
-type: 2framework
+date: 2014-01-01 00:00:01 -08:00
 ---
 `4th Jun 2015`
 
