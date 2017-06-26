@@ -2,6 +2,7 @@
 layout: post
 title: 图个啥(Tugesha)
 date: 2017-03-06 15:22:38.000000000 +08:00
+type: 3app
 ---
 `12 May 2015`
 
